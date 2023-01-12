@@ -1,5 +1,5 @@
 class Bala
 {
 PSVM()
-{ bala sample}
+{ bala testSample}
 }
